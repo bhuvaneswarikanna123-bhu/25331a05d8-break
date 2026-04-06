@@ -4,7 +4,7 @@
 int main() {
     int i;
 
-    // Demonstrating break
+    printf("25331a05d8\n");
     printf("Using break statement:\n");
     for(i = 1; i <= 10; i++) {
         if(i == 6) {
@@ -15,7 +15,7 @@ int main() {
 
     printf("\n\n");
 
-    // Demonstrating continue
+  
     printf("Using continue statement:\n");
     for(i = 1; i <= 10; i++) {
         if(i == 6) {
